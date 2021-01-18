@@ -2,7 +2,7 @@
   "name": "@rumur/pipeline",
   "version": "1.0.0",
   "description": "The simple Pipeline that helps to send the passable value via pipes.",
-  "main": "pipeline.js",
+  "main": "src/pipeline.js",
   "scripts": {},
   "repository": {
     "type": "git",
